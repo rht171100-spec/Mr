@@ -1,0 +1,4 @@
+interface:
+  display_name: "映像ディレクション"
+  short_description: "YouTubeリンクから映像を取得し、構図と演出意図を分析する"
+  default_prompt: "$video-direction で、このYouTubeリンクの構図・光・カット構成・演出意図を分析してください。"
